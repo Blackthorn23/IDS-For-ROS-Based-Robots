@@ -103,29 +103,29 @@ sudo apt install wireshark
 ### Attack Identification Models (ROSIDS23):
 - Mutual Information + Decision Tree: https://www.kaggle.com/code/nawfal24/rosids23-ai-mi-dt
 - Mutual Information + Random Forest: https://www.kaggle.com/code/nawfal24/rosids23-ai-mi-rf
-- Mutual Information + K-NN: https://www.kaggle.com/code/nawfal24/rosids23-ai-mi-knn
+- Mutual Information + KNN: https://www.kaggle.com/code/nawfal24/rosids23-ai-mi-knn
 - Chi-Square Test + Decision Tree: https://www.kaggle.com/code/nawfal24/rosids23-ai-cst-dt
 - Chi-Square Test + Random Forest: https://www.kaggle.com/code/nawfal24/rosids23-ai-cst-rf
-- Chi-Square Test + K-NN: https://www.kaggle.com/code/nawfal24/rosids23-ai-cst-knn
+- Chi-Square Test + KNN: https://www.kaggle.com/code/nawfal24/rosids23-ai-cst-knn
 - ANOVA F-Test + Decision Tree: https://www.kaggle.com/code/nawfal24/rosids23-ai-anvt-dt
 - ANOVA F-Test + Random Forest: https://www.kaggle.com/code/nawfal24/rosids23-ai-anvt-rf
-- ANOVA F-Test + K-NN: https://www.kaggle.com/code/nawfal24/rosids23-ai-anvt-knn
+- ANOVA F-Test + KNN: https://www.kaggle.com/code/nawfal24/rosids23-ai-anvt-knn
 
 ### Attack Classification Models (ROSIDS23):
 - Mutual Information + Decision Tree: https://www.kaggle.com/code/nawfal24/rosids23-ac-mi-dt
 - Mutual Information + Random Forest: https://www.kaggle.com/code/nawfal24/rosids23-ac-mi-rf
-- Mutual Information + K-NN: https://www.kaggle.com/code/nawfal24/rosids23-ac-mi-knn
+- Mutual Information + KNN: https://www.kaggle.com/code/nawfal24/rosids23-ac-mi-knn
 - Chi-Square Test + Decision Tree: https://www.kaggle.com/code/nawfal24/rosids23-ac-cst-dt
 - Chi-Square Test + Random Forest: https://www.kaggle.com/code/nawfal24/rosids23-ac-cst-rf
-- Chi-Square Test + K-NN: https://www.kaggle.com/code/nawfal24/rosids23-ac-cst-knn
+- Chi-Square Test + KNN: https://www.kaggle.com/code/nawfal24/rosids23-ac-cst-knn
 - ANOVA F-Test + Decision Tree: https://www.kaggle.com/code/nawfal24/rosids23-ac-anvt-dt
 - ANOVA F-Test + Random Forest: https://www.kaggle.com/code/nawfal24/rosids23-ac-anvt-rf
-- ANOVA F-Test + K-NN: https://www.kaggle.com/code/nawfal24/rosids23-ac-anvt-knn
+- ANOVA F-Test + KNN: https://www.kaggle.com/code/nawfal24/rosids23-ac-anvt-knn
 
 ### Attack Classification Models (NAVBOT25):
 - Mutual Information + Decision Tree: https://www.kaggle.com/code/nawfal24/navbot25-ac-mi-dt
 - Mutual Information + Random Forest: https://www.kaggle.com/code/nawfal24/navbot25-ac-mi-rf
-- Mutual Information + K-NN: https://www.kaggle.com/code/nawfal24/navbot25-ac-mi-knn
+- Mutual Information + KNN: https://www.kaggle.com/code/nawfal24/navbot25-ac-mi-knn
 - CNN-LSTM Model: https://www.kaggle.com/code/nawfal24/navbot25-ac-cnn-lstm
 - CNN-MHA Model: https://www.kaggle.com/code/nawfal24/navbot25-ac-cnn-mha
   
@@ -137,3 +137,4 @@ This project was implemented entirely using Jupyter notebooks hosted on **Kaggle
 There is no separate `.py` script or standalone source code directory. All modeling, training, testing, and analysis were performed within these Kaggle notebooks.
 
 ================================================================================
+
